@@ -1,0 +1,1 @@
+# criando-um-ransomware-de-criptografia
